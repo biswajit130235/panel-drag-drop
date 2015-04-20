@@ -1,0 +1,15 @@
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\obj\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\obj\Debug\Entity.pdb
+J:\Panel Swap - Copy\Entity\bin\Debug\Entity.dll
+J:\Panel Swap - Copy\Entity\bin\Debug\Entity.pdb
+J:\Panel Swap - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+J:\Panel Swap - Copy\Entity\obj\Debug\Entity.dll
+J:\Panel Swap - Copy\Entity\obj\Debug\Entity.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\Entity\bin\Debug\Entity.dll
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\Entity\bin\Debug\Entity.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\Entity\obj\Debug\Entity.dll
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\Entity\obj\Debug\Entity.pdb

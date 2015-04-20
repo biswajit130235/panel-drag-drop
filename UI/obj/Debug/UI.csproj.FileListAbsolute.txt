@@ -1,0 +1,46 @@
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\UI.exe.config
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\UI.exe
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\UI.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.Properties.Resources.resources
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.exe
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\BO.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\BO.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.Input_Form.resources
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.Panel_Swap.resources
+H:\Panel Swap\UI\bin\Debug\UI.exe.config
+H:\Panel Swap\UI\obj\Debug\UI.exe
+H:\Panel Swap\UI\obj\Debug\UI.pdb
+J:\Panel Swap\UI\bin\Debug\UI.exe.config
+J:\Panel Swap\UI\obj\Debug\UI.exe
+J:\Panel Swap\UI\obj\Debug\UI.pdb
+J:\Panel Swap - Copy\UI\bin\Debug\UI.exe.config
+J:\Panel Swap - Copy\UI\obj\Debug\UI.exe
+J:\Panel Swap - Copy\UI\obj\Debug\UI.pdb
+J:\Panel Swap - Copy\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+J:\Panel Swap - Copy\UI\obj\Debug\UI.Panel_Swap.resources
+J:\Panel Swap - Copy\UI\obj\Debug\UI.Properties.Resources.resources
+J:\Panel Swap - Copy\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+J:\Panel Swap - Copy\UI\bin\Debug\UI.exe
+J:\Panel Swap - Copy\UI\bin\Debug\UI.pdb
+J:\Panel Swap - Copy\UI\bin\Debug\BO.dll
+J:\Panel Swap - Copy\UI\bin\Debug\Entity.dll
+J:\Panel Swap - Copy\UI\bin\Debug\BO.pdb
+J:\Panel Swap - Copy\UI\bin\Debug\Entity.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\UI.exe.config
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\obj\Debug\UI.exe
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\obj\Debug\UI.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\UI.exe
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\UI.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\BO.dll
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\Entity.dll
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\BO.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\bin\Debug\Entity.pdb
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\obj\Debug\UI.Panel_Swap.resources
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Biswajit Biswas\Desktop\Panel Swap - Copy\UI\obj\Debug\UI.csproj.GenerateResource.Cache
